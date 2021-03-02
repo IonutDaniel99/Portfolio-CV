@@ -3,10 +3,12 @@ import webdev from "../images/webdev.svg"
 import education from "../images/education.svg"
 import experience from "../images/experience.svg"
 import android from "../images/android.svg"
+import knowledge from "../images/knowledge.svg"
 import ProjectFigure from './other/ProjectFigure';
 
 
 function Content({ data }) {
+
     return (
         <content className="col-12 col-md-12 col-xl-9">
             <div className="box shadow mt-0 pb-0">
@@ -38,7 +40,7 @@ function Content({ data }) {
                         </div>
                         <div className="col-12 col-lg-12">
                             <div className="case-item box box__second">
-                                <img className="case-item__icon" src={webdev} alt="" />
+                                <img className="case-item__icon" src={knowledge} alt="" />
                                 <div>
                                     <h3 className="title title--h5">{data.what_im_doing.third.name}</h3>
                                     <p className="case-item__caption">{data.what_im_doing.third.desc}</p>
@@ -169,9 +171,10 @@ function Content({ data }) {
             </div>
             <div className="box shadow mt-4 pb-4">
                 <h1 className="title title--h1 first-title title__separate">Portfolio</h1>
-                <div class="gallery-grid">
+                <div className="gallery-grid">
                     {Object.keys(data.projects).map(key => {
                         return <ProjectFigure
+                            language={data.projects[key].language}
                             url={data.projects[key].url}
                             image={data.projects[key].image}
                             name={data.projects[key].name}

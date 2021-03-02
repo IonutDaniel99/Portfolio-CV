@@ -12,8 +12,8 @@
     "twitch": "https://www.twitch.tv/astreek99"
   },
   "content": {
-    "description_1": "Text",
-    "description_2": "Test",
+    "description_1": "I`m a student in the last year at University of Informatics in my city. I`m very creative and i have a lot of ideas and in the same time i like to implement them by creating web and android applications.",
+    "description_2": "Since i was 12 years old i like the idea to have my own game and after i bought a new computer my first programing languages was C++ Blueprints in Unreal Engine 4, but because it need a high end computer i can`t continue with UE4 and i moved towards to C# Unity where i created 2 games. After i went to HighSchool i applied to interships where i learned the basics of hardware and programing langauges for Arduino(java) and Raspberry PI(python). And when i enter to university i choosed to create Web Applications and Android. Lots of my projects are based on PHP, JS, Java(Android)!",
     "what_im_doing": {
       "first": {
         "name": "Web Development",
@@ -24,8 +24,8 @@
         "desc": "I enjoy the fact that you can use android components (Sensors,GPS) to create awesome apps."
       },
       "third": {
-        "name": "Other",
-        "desc": "Other"
+        "name": "Teamwork",
+        "desc": "I like to help other. A lot. I litteraly join in any hard hard work and with the knowledge i`ve got during the process of solving my work, i`ll help others based on that!"
       }
     },
     "education": {
@@ -108,24 +108,42 @@
     },
     "projects": {
       "p1": {
+        "language": "React JS",
         "url": "https://github.com/IonutDaniel99/Portfolio-WebPage",
         "image": "Test",
         "name": "My Own Portfolio",
         "desc": "My first online web portofolio was made in React JS."
       },
       "p2": {
+        "language": "PHP / Laravel / JS",
         "url": "https://github.com/IonutDaniel99/Grovayo",
         "image": "Test",
         "name": "Grovayo",
         "desc": "My university final project was a social web page created in Laravel PHP."
       },
       "p3": {
+        "language": "PHP / Laravel",
         "url": "https://github.com/IonutDaniel99/Server-User-Dashboard-Laravel",
         "image": "https://raw.githubusercontent.com/IonutDaniel99/Server-User-Dashboard-Laravel/master/GitImages/201.jpg?raw=true",
         "name": "Hardware Dashboard",
         "desc": "Dashboard to get all informations about user and device he is using and info for app server!"
       },
       "p4": {
+        "language": "C# Unity",
+        "url": "link",
+        "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
+        "name": "Testera",
+        "desc": "Terra"
+      },
+      "p5": {
+        "language": "Android Java",
+        "url": "link",
+        "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
+        "name": "Testera",
+        "desc": "Terra"
+      },
+      "p6": {
+        "language": "C# Unity",
         "url": "link",
         "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
         "name": "Testera",
