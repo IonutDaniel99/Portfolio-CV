@@ -409,6 +409,8 @@ a {
   margin-top: 0.75rem;
   height: 3.0rem;
   width: 3.0rem;
+  min-width: 48px;
+  min-height: 48px;
 }
 
 .title--h5 {
@@ -544,24 +546,29 @@ img {
 
 figure {
   margin: 0 0 1rem;
+  padding: 10px;
+  border-radius: 5%;
+  box-shadow: .3rem .3rem 1rem rgba(95, 139, 165, 0.493);
 }
 
 
 
 @media only screen and (min-width: 425px) {
   .gallery-grid__item {
-    width: 100%;
+    width: 300px;
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
   .gallery-grid__item {
-    width: 350px;
+    width: 265px;
   }
 }
 
-.gallery-grid__item {
-  width: 235px;
+@media only screen and (min-width: 1200px) {
+  .gallery-grid__item {
+    width: 335px;
+  }
 }
 
 
@@ -573,17 +580,18 @@ figure {
 }
 
 .cover {
-  object-fit: fill;
+  object-fit: contain;
   object-position: center;
   font-family: 'object-fit: cover; object-position: center;';
   height: 100%;
   width: 100%;
+  padding: 10px;
 }
+
 
 .gallery-grid__title {
   font-size: 1.1475rem;
   font-weight: 600;
-  margin-top: 1rem;
   margin-bottom: 0.5rem;
 }
 
@@ -591,4 +599,8 @@ figure {
   font-size: 0.95rem;
   color: #8697A8;
   display: block;
+}
+
+.gallery-grid__caption {
+  padding: 0px 10px 10px 10px;
 }

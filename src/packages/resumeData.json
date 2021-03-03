@@ -110,7 +110,7 @@
       "p1": {
         "language": "React JS",
         "url": "https://github.com/IonutDaniel99/Portfolio-WebPage",
-        "image": "Test",
+        "image": "https://raw.githubusercontent.com/IonutDaniel99/Portofolio/Portofolio/src/images/project_background/myportofolio.jpg",
         "name": "My Own Portfolio",
         "desc": "My first online web portofolio was made in React JS."
       },
@@ -130,24 +130,10 @@
       },
       "p4": {
         "language": "C# Unity",
-        "url": "link",
-        "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
-        "name": "Testera",
-        "desc": "Terra"
-      },
-      "p5": {
-        "language": "Android Java",
-        "url": "link",
-        "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
-        "name": "Testera",
-        "desc": "Terra"
-      },
-      "p6": {
-        "language": "C# Unity",
-        "url": "link",
-        "image": "https://github.com/IonutDaniel99/QR-Code-Generator-Laravel",
-        "name": "Testera",
-        "desc": "Terra"
+        "url": "https://github.com/IonutDaniel99/Doodle-Jump-C--Clone",
+        "image": "https://raw.githubusercontent.com/IonutDaniel99/Doodle-Jump-C--Clone/master/Images/poster.jpg?token=AKBDXL3VPY2GX7M2Q2SATOTAH7BTQ",
+        "name": "Doodle Jump Copy",
+        "desc": "A game maded in Unity C# which is a copy of the popular game doodle jump for android!"
       }
     }
   }
