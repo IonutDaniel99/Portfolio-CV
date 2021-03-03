@@ -10,7 +10,6 @@
 
 # production
 /build
-/src/images/myportofolio.jpg
 /src/packages/*
 
 # misc
