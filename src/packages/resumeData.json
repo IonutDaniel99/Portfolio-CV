@@ -108,7 +108,7 @@
     },
     "projects": {
       "p1": {
-        "language": "React JS",
+        "language": "JS / React",
         "url": "https://github.com/IonutDaniel99/Portfolio-WebPage",
         "image": "https://raw.githubusercontent.com/IonutDaniel99/Portofolio/Portofolio/src/images/project_background/myportofolio.jpg",
         "name": "My Own Portfolio",
@@ -129,7 +129,7 @@
         "desc": "Dashboard to get all informations about user and device he is using and info for app server!"
       },
       "p4": {
-        "language": "C# Unity",
+        "language": "C# / Unity",
         "url": "https://github.com/IonutDaniel99/Doodle-Jump-C--Clone",
         "image": "https://raw.githubusercontent.com/IonutDaniel99/Doodle-Jump-C--Clone/master/Images/poster.jpg?token=AKBDXL3VPY2GX7M2Q2SATOTAH7BTQ",
         "name": "Doodle Jump Copy",
