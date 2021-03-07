@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-CV/static/css/main.b3f24502.chunk.css",
-    "main.js": "/Portfolio-CV/static/js/main.17cc32c6.chunk.js",
-    "main.js.map": "/Portfolio-CV/static/js/main.17cc32c6.chunk.js.map",
+    "main.js": "/Portfolio-CV/static/js/main.f4125511.chunk.js",
+    "main.js.map": "/Portfolio-CV/static/js/main.f4125511.chunk.js.map",
     "runtime-main.js": "/Portfolio-CV/static/js/runtime-main.c573dc5f.js",
     "runtime-main.js.map": "/Portfolio-CV/static/js/runtime-main.c573dc5f.js.map",
     "static/css/2.658248ec.chunk.css": "/Portfolio-CV/static/css/2.658248ec.chunk.css",
@@ -14,18 +14,13 @@
     "static/css/2.658248ec.chunk.css.map": "/Portfolio-CV/static/css/2.658248ec.chunk.css.map",
     "static/css/main.b3f24502.chunk.css.map": "/Portfolio-CV/static/css/main.b3f24502.chunk.css.map",
     "static/js/2.03929ba9.chunk.js.LICENSE.txt": "/Portfolio-CV/static/js/2.03929ba9.chunk.js.LICENSE.txt",
-    "static/media/android.eaf75182.svg": "/Portfolio-CV/static/media/android.eaf75182.svg",
-    "static/media/education.db7a0a81.svg": "/Portfolio-CV/static/media/education.db7a0a81.svg",
-    "static/media/experience.eab3f9e6.svg": "/Portfolio-CV/static/media/experience.eab3f9e6.svg",
-    "static/media/knowledge.c4164649.svg": "/Portfolio-CV/static/media/knowledge.c4164649.svg",
-    "static/media/App.css": "/Portfolio-CV/static/media/triangles-top.aa97cd97.svg",
-    "static/media/webdev.ca8077e3.svg": "/Portfolio-CV/static/media/webdev.ca8077e3.svg"
+    "static/media/App.css": "/Portfolio-CV/static/media/triangles-top.aa97cd97.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c573dc5f.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.03929ba9.chunk.js",
     "static/css/main.b3f24502.chunk.css",
-    "static/js/main.17cc32c6.chunk.js"
+    "static/js/main.f4125511.chunk.js"
   ]
 }
